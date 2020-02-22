@@ -18,7 +18,8 @@ A Reference list of Python blogs and articles in one location
 	
 ## Python Logging Module
 * https://www.pylenin.com/blogs/python-logging-guide/  
-\s\sGood Explanation on configuring Root Logger vs Main Logger
+
+Good Explanation on configuring Root Logger vs Main Logger
 
 ## Python Testing Module
 * https://realpython.com/python-testing/
