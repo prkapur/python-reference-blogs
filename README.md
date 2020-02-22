@@ -17,7 +17,7 @@ A Reference list of Python blogs and articles in one location
 * https://docs.python-guide.org/writing/structure/
 	
 ## Python Logging Module
-* (https://www.pylenin.com/blogs/python-logging-guide/) - Good Explanation on configuring Root Logger vs Main Logger
+* https://www.pylenin.com/blogs/python-logging-guide/ - "Good Explanation on configuring Root Logger vs Main Logger"
 
 ## Python Testing Module
 * https://realpython.com/python-testing/
@@ -27,6 +27,9 @@ A Reference list of Python blogs and articles in one location
 	
 ## Python Docstrings
 * https://www.geeksforgeeks.org/python-docstrings/
+
+## Gitflow Workflow
+* https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 
 ## Contribution Guide
 
