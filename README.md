@@ -33,7 +33,7 @@ Ok - import library.plugin.foo, not OK - import library.foo_plugin
 * https://www.pydanny.com/cookie-project-templates-made-easy.html - Great explanation here on getting started with Cookie-Cutter
 
 ## Gitflow Workflow
-* https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow - This workflow uses two brances - a master abd a develop branch that serves as an integration branch for features.
+* https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow - This workflow uses two brances - a master and a develop branch that serves as an integration branch for features.
 
 ## Contribution Guide
 
